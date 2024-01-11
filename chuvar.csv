@@ -1,0 +1,1001 @@
+id,make,model,price
+1,Toyota,Avalon,48352.00
+2,Ford,Mustang,81031.00
+3,Infiniti,G,14325.00
+4,Chevrolet,Corsica,20187.00
+5,Ford,Focus,77821.00
+6,Infiniti,M,29576.00
+7,Bentley,Continental Flying Spur,86172.00
+8,Mercury,Cougar,64843.00
+9,Isuzu,Axiom,88718.00
+10,Dodge,Ram 2500 Club,70335.00
+11,Mitsubishi,Montero Sport,87325.00
+12,Chevrolet,Equinox,76140.00
+13,Lexus,LX,16201.00
+14,Chevrolet,Suburban 2500,55639.00
+15,Dodge,D150,52647.00
+16,Ford,Econoline E250,88686.00
+17,Buick,Electra,82580.00
+18,Lotus,Esprit,45870.00
+19,Cadillac,Escalade ESV,96605.00
+20,Ford,Expedition,19357.00
+21,Chevrolet,Blazer,13790.00
+22,Toyota,Camry,43062.00
+23,Pontiac,Grand Prix,58457.00
+24,Nissan,Pathfinder,73234.00
+25,Mercedes-Benz,CLK-Class,11707.00
+26,Nissan,Cube,85110.00
+27,GMC,Acadia,31671.00
+28,Volkswagen,Scirocco,19319.00
+29,Acura,RL,63862.00
+30,Dodge,Ram 3500 Club,46305.00
+31,Chevrolet,TrailBlazer,15855.00
+32,Hyundai,Santa Fe,62748.00
+33,Chevrolet,Caprice Classic,44119.00
+34,Chrysler,Town & Country,88512.00
+35,Ford,Ranger,33857.00
+36,Chevrolet,Avalanche 2500,16063.00
+37,Bentley,Continental GT,49380.00
+38,Chevrolet,Corvette,63482.00
+39,Rolls-Royce,Phantom,13819.00
+40,Volkswagen,Touareg,57405.00
+41,Pontiac,Grand Prix,29960.00
+42,BMW,X6 M,48385.00
+43,Mazda,Miata MX-5,63114.00
+44,Ford,Explorer,21400.00
+45,Chevrolet,Beretta,63842.00
+46,Kia,Optima,14898.00
+47,Mercedes-Benz,M-Class,23309.00
+48,Oldsmobile,Achieva,71162.00
+49,Ford,Mustang,44130.00
+50,Pontiac,Vibe,17262.00
+51,Chevrolet,Cavalier,21791.00
+52,Rambler,Classic,53166.00
+53,Lexus,LS Hybrid,69588.00
+54,Volvo,C70,20491.00
+55,Nissan,Altima,19856.00
+56,Mazda,B2500,90040.00
+57,Mercury,Cougar,63602.00
+58,BMW,M3,23335.00
+59,Mercedes-Benz,S-Class,24061.00
+60,Mercury,Cougar,28579.00
+61,Dodge,Dakota,47748.00
+62,Chevrolet,Tahoe,59103.00
+63,Mitsubishi,GTO,93467.00
+64,Porsche,911,91235.00
+65,Subaru,Impreza,61531.00
+66,Land Rover,Discovery,18521.00
+67,Volvo,C70,53522.00
+68,Tesla,Roadster,78636.00
+69,Dodge,Ram Van 3500,67713.00
+70,Hyundai,HED-5,10388.00
+71,Kia,Forte,74466.00
+72,Mitsubishi,Eclipse,26715.00
+73,Hummer,H1,21776.00
+74,Toyota,4Runner,11677.00
+75,Hyundai,Tucson,94768.00
+76,Toyota,Yaris,89205.00
+77,Lamborghini,Murciélago,11322.00
+78,BMW,M3,27342.00
+79,Pontiac,Trans Sport,58193.00
+80,BMW,530,15785.00
+81,Mazda,MX-5,56924.00
+82,Mitsubishi,Montero Sport,81027.00
+83,Honda,Insight,46641.00
+84,Hyundai,Elantra,50309.00
+85,Honda,Civic,90163.00
+86,Dodge,Ram 3500,26901.00
+87,Volvo,V70,25163.00
+88,Buick,Riviera,77293.00
+89,Jaguar,X-Type,95370.00
+90,Pontiac,GTO,96416.00
+91,BMW,525,22657.00
+92,Pontiac,Sunbird,29597.00
+93,Pontiac,Aztek,97105.00
+94,Volvo,S40,27737.00
+95,Toyota,Tacoma,62804.00
+96,Lexus,RX,63315.00
+97,Saab,9000,33626.00
+98,Nissan,Murano,14136.00
+99,GMC,Savana,20451.00
+100,Chrysler,Grand Voyager,55917.00
+101,Saturn,Ion,48709.00
+102,Mercedes-Benz,300SL,79526.00
+103,BMW,325,20450.00
+104,Chevrolet,Express,11643.00
+105,Mitsubishi,Raider,68011.00
+106,Volkswagen,GTI,24952.00
+107,Ford,F150,80192.00
+108,Pontiac,Bonneville,48407.00
+109,Acura,Integra,51098.00
+110,Jeep,Patriot,77121.00
+111,Ford,Escape,36164.00
+112,Lincoln,Navigator,73965.00
+113,BMW,5 Series,77988.00
+114,Chevrolet,G-Series G30,44785.00
+115,Saturn,VUE,88648.00
+116,GMC,Safari,32244.00
+117,Porsche,911,96375.00
+118,Toyota,Paseo,34667.00
+119,Audi,80,51907.00
+120,Lamborghini,Diablo,93121.00
+121,Nissan,Versa,20874.00
+122,Ford,E-Series,35354.00
+123,Kia,Spectra,12646.00
+124,Ford,Mustang,32082.00
+125,Honda,Insight,50034.00
+126,Mazda,Mazda2,74335.00
+127,Hyundai,Accent,93483.00
+128,Volkswagen,Golf,67827.00
+129,Hyundai,Elantra,40071.00
+130,Volvo,S60,34934.00
+131,Audi,Q7,11908.00
+132,Isuzu,Hombre,84205.00
+133,Oldsmobile,Bravada,32492.00
+134,Pontiac,G6,32179.00
+135,Kia,Spectra,38870.00
+136,Nissan,350Z,19788.00
+137,Toyota,Avalon,24658.00
+138,Buick,Coachbuilder,50650.00
+139,Buick,LeSabre,83360.00
+140,Volvo,850,46581.00
+141,Mitsubishi,Tredia,92759.00
+142,Chevrolet,Silverado 1500,28625.00
+143,Dodge,D350,75581.00
+144,Dodge,Intrepid,42673.00
+145,Mercedes-Benz,E-Class,28904.00
+146,Dodge,Dakota,80235.00
+147,Jeep,Compass,95481.00
+148,BMW,3 Series,56987.00
+149,Cadillac,STS-V,94122.00
+150,Lexus,ES,23119.00
+151,Mazda,Protege,71797.00
+152,Honda,Prelude,77527.00
+153,Dodge,D150 Club,84595.00
+154,Mercedes-Benz,SL-Class,57473.00
+155,Pontiac,Firefly,65013.00
+156,Peugeot,207,39680.00
+157,Bentley,Azure,82773.00
+158,Subaru,Impreza,20700.00
+159,Suzuki,Samurai,28904.00
+160,Lexus,GS,53626.00
+161,Nissan,Datsun/Nissan Z-car,46513.00
+162,Dodge,Magnum,90427.00
+163,Ford,Ranger,94861.00
+164,Chevrolet,Blazer,78374.00
+165,Chevrolet,Monte Carlo,95807.00
+166,Mercury,Grand Marquis,31839.00
+167,Ford,Econoline E350,61317.00
+168,GMC,Sierra 2500,59724.00
+169,Mitsubishi,Diamante,91726.00
+170,Dodge,Ram 1500,97738.00
+171,Chrysler,LeBaron,77616.00
+172,Volvo,V50,29704.00
+173,Toyota,RAV4,24998.00
+174,Chevrolet,Cavalier,98420.00
+175,Subaru,XT,89822.00
+176,Bentley,Continental GT,13854.00
+177,Toyota,Prius c,93127.00
+178,Subaru,Alcyone SVX,90206.00
+179,Acura,RL,22023.00
+180,Honda,Passport,13037.00
+181,Mercedes-Benz,CLS-Class,81100.00
+182,Nissan,Maxima,51357.00
+183,Maybach,57,39619.00
+184,Porsche,944,55367.00
+185,Volkswagen,Passat,23762.00
+186,Ford,E250,90594.00
+187,Mazda,Protege,90288.00
+188,Chrysler,New Yorker,86776.00
+189,Mitsubishi,Eclipse,19170.00
+190,Toyota,FJ Cruiser,90389.00
+191,Buick,Terraza,89972.00
+192,Volkswagen,GTI,14756.00
+193,Geo,Metro,36735.00
+194,Dodge,Intrepid,31433.00
+195,Volkswagen,Eurovan,65783.00
+196,Chevrolet,Cavalier,22344.00
+197,Jaguar,X-Type,85788.00
+198,Hyundai,Santa Fe,95191.00
+199,Ford,F250,58690.00
+200,Volkswagen,Eurovan,36982.00
+201,Lexus,LS,28044.00
+202,Ford,E350,58906.00
+203,Dodge,Ram Wagon B350,42010.00
+204,Nissan,Sentra,95793.00
+205,Pontiac,Grand Prix,72132.00
+206,Porsche,944,14345.00
+207,Nissan,Quest,85845.00
+208,Porsche,928,30686.00
+209,Mitsubishi,Truck,50129.00
+210,Oldsmobile,Bravada,33978.00
+211,Acura,Vigor,79482.00
+212,Hummer,H1,30558.00
+213,Infiniti,I,70536.00
+214,Subaru,Justy,67877.00
+215,Lexus,ES,21814.00
+216,Saab,900,56811.00
+217,Audi,S6,82109.00
+218,Mercury,Grand Marquis,82250.00
+219,Honda,Civic,22148.00
+220,Mercury,Cougar,48720.00
+221,Nissan,350Z,43723.00
+222,Ford,E-Series,79529.00
+223,GMC,Jimmy,42580.00
+224,Acura,TL,77423.00
+225,Plymouth,Grand Voyager,21055.00
+226,Nissan,Titan,87710.00
+227,Chevrolet,Impala,91213.00
+228,Ford,Freestar,58701.00
+229,Cadillac,DTS,90024.00
+230,Porsche,Panamera,57644.00
+231,Chevrolet,Tahoe,63868.00
+232,Audi,A6,93036.00
+233,Audi,S5,78902.00
+234,Toyota,4Runner,83904.00
+235,Plymouth,Laser,45044.00
+236,Ford,Escape,24845.00
+237,Daewoo,Lanos,47839.00
+238,Ford,Taurus,69443.00
+239,GMC,Savana 2500,68827.00
+240,GMC,Sonoma,76850.00
+241,Ford,Courier,49384.00
+242,Ford,E350,50704.00
+243,Honda,Insight,35628.00
+244,Aston Martin,DB9,62581.00
+245,Lotus,Elan,62918.00
+246,Toyota,Avalon,27346.00
+247,Mazda,CX-9,51044.00
+248,Toyota,Venza,84120.00
+249,Buick,Riviera,40342.00
+250,Isuzu,Rodeo,94047.00
+251,Porsche,928,98560.00
+252,Mercedes-Benz,SLR McLaren,18475.00
+253,Pontiac,Grand Prix,95542.00
+254,Pontiac,Firebird,59830.00
+255,Acura,RSX,84947.00
+256,Chevrolet,Express 3500,29981.00
+257,Nissan,GT-R,23422.00
+258,Chevrolet,Astro,20226.00
+259,Pontiac,Grand Prix,44189.00
+260,Land Rover,Range Rover Sport,62543.00
+261,Buick,Rainier,48814.00
+262,Infiniti,M,93965.00
+263,Ford,Explorer,34953.00
+264,Buick,Century,58062.00
+265,Suzuki,Daewoo Lacetti,94975.00
+266,Ford,Explorer,35130.00
+267,Ford,Freestar,67918.00
+268,Toyota,Tacoma,59406.00
+269,Volkswagen,Golf,94741.00
+270,Chevrolet,Corvette,13550.00
+271,Land Rover,Defender 110,70019.00
+272,GMC,Sonoma,82546.00
+273,Ford,Mustang,13886.00
+274,Nissan,Xterra,51032.00
+275,Mercury,Grand Marquis,16232.00
+276,Bentley,Continental,55161.00
+277,Porsche,Cayenne,15270.00
+278,Mitsubishi,Lancer Evolution,18417.00
+279,Dodge,Caliber,83053.00
+280,Honda,Ridgeline,19135.00
+281,Hummer,H3,31067.00
+282,Mazda,Miata MX-5,53522.00
+283,Buick,LeSabre,74510.00
+284,BMW,Z3,17254.00
+285,GMC,Sierra 1500,25486.00
+286,Chevrolet,Suburban,78795.00
+287,Pontiac,Grand Am,66327.00
+288,Mercedes-Benz,300D,17538.00
+289,Mazda,MPV,70579.00
+290,Mazda,Mazda6,23049.00
+291,Buick,Century,78770.00
+292,Toyota,Matrix,65898.00
+293,Nissan,Titan,99459.00
+294,Nissan,GT-R,16580.00
+295,Infiniti,QX,94927.00
+296,GMC,Sonoma,85408.00
+297,Scion,xB,30439.00
+298,Subaru,Alcyone SVX,85231.00
+299,Kia,Rio5,74356.00
+300,Mazda,MX-5,29199.00
+301,Porsche,Cayenne,32005.00
+302,Spyker,C8,92049.00
+303,Ford,E350,24436.00
+304,Chevrolet,Malibu,72646.00
+305,BMW,Z3,63367.00
+306,Acura,TL,61709.00
+307,Lexus,LS,57134.00
+308,Porsche,911,85038.00
+309,Mercury,Tracer,83080.00
+310,Volvo,XC90,21149.00
+311,Ford,Mustang,95717.00
+312,Land Rover,Freelander,85632.00
+313,Lexus,SC,62278.00
+314,Audi,A6,28146.00
+315,Kia,Rio,50340.00
+316,Suzuki,Grand Vitara,41777.00
+317,Volvo,240,25741.00
+318,Toyota,RAV4,29297.00
+319,Ford,Aerostar,54855.00
+320,Chevrolet,Express 1500,29693.00
+321,Pontiac,GTO,25157.00
+322,Dodge,Dakota Club,43891.00
+323,Nissan,Cube,74868.00
+324,BMW,7 Series,29900.00
+325,Pontiac,Grand Am,80139.00
+326,Dodge,Caliber,39883.00
+327,BMW,5 Series,11472.00
+328,Dodge,Dakota,64626.00
+329,Subaru,Impreza,16042.00
+330,Ford,Explorer Sport,70522.00
+331,Audi,A6,14954.00
+332,Nissan,Murano,59194.00
+333,Ford,Ranger,53071.00
+334,Volkswagen,GTI,85080.00
+335,Hyundai,Accent,13163.00
+336,Alfa Romeo,164,37586.00
+337,Chevrolet,Venture,46374.00
+338,Mercury,Topaz,55322.00
+339,Aston Martin,V8 Vantage,26134.00
+340,Volkswagen,GTI,54360.00
+341,Volkswagen,Passat,76961.00
+342,Honda,Insight,71811.00
+343,Ford,Ranger,16288.00
+344,Saab,9000,24789.00
+345,Saab,9-5,34331.00
+346,Mazda,RX-7,94005.00
+347,Land Rover,Discovery,30301.00
+348,Audi,TT,45007.00
+349,Pontiac,Grand Am,87484.00
+350,Buick,Riviera,74556.00
+351,Ram,Dakota,76085.00
+352,Ford,Edge,14359.00
+353,Lexus,LS,36229.00
+354,Ford,Tempo,65666.00
+355,Honda,Prelude,86504.00
+356,Ford,Flex,98698.00
+357,Suzuki,Aerio,48340.00
+358,Pontiac,Grand Am,29759.00
+359,Hyundai,Excel,76907.00
+360,Toyota,Yaris,19889.00
+361,GMC,Yukon,40145.00
+362,Toyota,Prius,20774.00
+363,GMC,Sierra 3500,74365.00
+364,Ford,Probe,69409.00
+365,Nissan,Pathfinder,43059.00
+366,Ford,Mustang,98176.00
+367,Dodge,Challenger,28984.00
+368,Volvo,S80,70184.00
+369,Chrysler,Voyager,91010.00
+370,Ford,F-Series,40373.00
+371,Chevrolet,Cruze,66300.00
+372,Nissan,Xterra,86110.00
+373,Saab,9-5,16304.00
+374,Ford,Escape,27306.00
+375,Audi,A7,52682.00
+376,Dodge,Caravan,77166.00
+377,Saab,9-3,41999.00
+378,Ford,Taurus,52977.00
+379,BMW,5 Series,24752.00
+380,Oldsmobile,Silhouette,78641.00
+381,Buick,Estate,77462.00
+382,Lexus,LS,89955.00
+383,Honda,Civic,71050.00
+384,Mercury,Tracer,40213.00
+385,GMC,Jimmy,49828.00
+386,Mitsubishi,RVR,23997.00
+387,Chevrolet,Cobalt,65816.00
+388,Volkswagen,Cabriolet,15523.00
+389,Chrysler,Concorde,24758.00
+390,Hyundai,Azera,67582.00
+391,Mercedes-Benz,SL-Class,28044.00
+392,Mercedes-Benz,S-Class,75490.00
+393,Oldsmobile,LSS,29807.00
+394,Toyota,Yaris,10790.00
+395,GMC,Savana 2500,64392.00
+396,Nissan,Altima,97366.00
+397,Porsche,944,80406.00
+398,Acura,TSX,81452.00
+399,Ford,Crown Victoria,60324.00
+400,Ford,Edge,16613.00
+401,Lexus,GS,58857.00
+402,Volkswagen,GTI,19398.00
+403,Mitsubishi,Endeavor,83903.00
+404,Buick,Park Avenue,59718.00
+405,Toyota,Tundra,76082.00
+406,Ford,Freestar,87843.00
+407,BMW,M,43786.00
+408,Mercury,Sable,53733.00
+409,Mercedes-Benz,400E,45846.00
+410,Mitsubishi,Montero,81886.00
+411,Dodge,Ram Van B150,65279.00
+412,Hyundai,Sonata,60802.00
+413,Dodge,Durango,53663.00
+414,Mercedes-Benz,500SEL,38673.00
+415,Mitsubishi,Galant,74474.00
+416,Chevrolet,1500,90948.00
+417,Ford,E250,95083.00
+418,GMC,Jimmy,14915.00
+419,Oldsmobile,98,20174.00
+420,Ferrari,430 Scuderia,41447.00
+421,Nissan,370Z,43118.00
+422,Audi,TT,95314.00
+423,GMC,Savana 3500,76754.00
+424,Jeep,Liberty,83428.00
+425,BMW,5 Series,29075.00
+426,Nissan,Altima,44019.00
+427,Saturn,Astra,66141.00
+428,Land Rover,LR3,86748.00
+429,Honda,S2000,64360.00
+430,Toyota,TundraMax,63544.00
+431,Chrysler,Crossfire,48840.00
+432,Suzuki,Daewoo Lacetti,79540.00
+433,Rolls-Royce,Phantom,24442.00
+434,Toyota,Corolla,47417.00
+435,Mazda,Navajo,53355.00
+436,Cadillac,Seville,80744.00
+437,Land Rover,Discovery,69770.00
+438,Mercedes-Benz,600SL,76663.00
+439,Toyota,FJ Cruiser,94847.00
+440,Eagle,Talon,56187.00
+441,Acura,Legend,82642.00
+442,Aston Martin,DB9,65162.00
+443,Cadillac,DeVille,67191.00
+444,Lincoln,Mark VIII,62844.00
+445,GMC,Savana 3500,33135.00
+446,Chevrolet,Blazer,75752.00
+447,Suzuki,Kizashi,62698.00
+448,BMW,325,44931.00
+449,Porsche,911,21722.00
+450,Mitsubishi,Eclipse,15457.00
+451,Subaru,Impreza,91147.00
+452,Mercedes-Benz,E-Class,37460.00
+453,Subaru,Legacy,69795.00
+454,Toyota,Sienna,34234.00
+455,Maserati,228,73283.00
+456,Lexus,RX,14479.00
+457,Geo,Metro,95688.00
+458,Volvo,V50,84554.00
+459,Dodge,Charger,66135.00
+460,Scion,xA,82251.00
+461,Nissan,Pathfinder,22587.00
+462,Ford,Tempo,17885.00
+463,Mercedes-Benz,E-Class,37609.00
+464,Mazda,MX-3,50182.00
+465,Chevrolet,Silverado,80310.00
+466,Land Rover,Freelander,16362.00
+467,Toyota,Solara,71552.00
+468,Aston Martin,V12 Vantage,89155.00
+469,Lexus,ES,86281.00
+470,Porsche,911,76282.00
+471,Audi,V8,79423.00
+472,Cadillac,Escalade EXT,31840.00
+473,Kia,Carens,98326.00
+474,Chrysler,Sebring,73787.00
+475,Cadillac,STS-V,54857.00
+476,Jeep,Grand Cherokee,40453.00
+477,Chrysler,Crossfire,46832.00
+478,GMC,Sierra 2500,79211.00
+479,Nissan,Altima,25614.00
+480,Chevrolet,Lumina,74402.00
+481,Honda,Accord,73921.00
+482,Maybach,57,46145.00
+483,Chrysler,Sebring,22488.00
+484,Lexus,LS,61887.00
+485,Lexus,GX,61283.00
+486,Hummer,H2,24687.00
+487,Chrysler,Sebring,16852.00
+488,Lexus,LS,51963.00
+489,Toyota,Matrix,54543.00
+490,Volkswagen,Jetta,84364.00
+491,Chevrolet,Tahoe,63343.00
+492,Chevrolet,HHR Panel,21671.00
+493,Jeep,Grand Cherokee,80795.00
+494,Dodge,Dakota,14599.00
+495,Lexus,LS,10667.00
+496,Acura,TL,97623.00
+497,Subaru,Outback,20449.00
+498,Toyota,Tacoma,75987.00
+499,Lincoln,Continental Mark VII,53218.00
+500,Mazda,MX-3,84390.00
+501,Mercedes-Benz,SL-Class,63381.00
+502,Mitsubishi,Eclipse,72162.00
+503,Jeep,Commander,71869.00
+504,Ford,Laser,22010.00
+505,Lexus,LX,89293.00
+506,Audi,A5,98589.00
+507,Dodge,Caliber,30065.00
+508,Volvo,S80,77068.00
+509,Ford,Mustang,83754.00
+510,Dodge,Dakota,90362.00
+511,Lamborghini,Aventador,83983.00
+512,Toyota,Tacoma Xtra,89869.00
+513,Ford,Econoline E250,85212.00
+514,Chevrolet,Avalanche 1500,59008.00
+515,Saturn,S-Series,32794.00
+516,Ford,Taurus,95832.00
+517,Cadillac,CTS-V,15272.00
+518,Infiniti,M,30885.00
+519,Ford,Bronco,98077.00
+520,Mitsubishi,Starion,80255.00
+521,Porsche,928,33441.00
+522,Mercedes-Benz,300SE,92298.00
+523,Lincoln,Mark VIII,12919.00
+524,Dodge,Ram 2500,91857.00
+525,Chevrolet,Silverado,10044.00
+526,Ford,Thunderbird,10481.00
+527,Suzuki,Sidekick,93442.00
+528,Dodge,Grand Caravan,74219.00
+529,Volkswagen,New Beetle,81907.00
+530,Audi,A8,75415.00
+531,Pontiac,Vibe,36910.00
+532,Ford,Probe,94005.00
+533,Nissan,Murano,83691.00
+534,Land Rover,Defender 90,99743.00
+535,Chevrolet,Sportvan G20,99807.00
+536,Hyundai,Genesis Coupe,17013.00
+537,Volvo,V70,52378.00
+538,Eagle,Talon,59191.00
+539,BMW,X5 M,69755.00
+540,Pontiac,Firefly,19550.00
+541,Ford,F150,36889.00
+542,Toyota,Ipsum,53051.00
+543,Dodge,Dakota Club,28241.00
+544,Volvo,C70,69435.00
+545,Pontiac,Tempest,21445.00
+546,GMC,Rally Wagon G3500,24098.00
+547,Toyota,Tacoma,70587.00
+548,Porsche,911,49716.00
+549,Lamborghini,Murciélago,99838.00
+550,Maybach,57,79751.00
+551,Volkswagen,Jetta,42830.00
+552,Mercury,Sable,45887.00
+553,Mercury,Cougar,15158.00
+554,Jaguar,X-Type,72763.00
+555,Maybach,62,68930.00
+556,Mitsubishi,Montero,52130.00
+557,Volkswagen,Cabriolet,96895.00
+558,Ford,LTD Crown Victoria,25837.00
+559,Oldsmobile,98,51134.00
+560,Acura,RL,68429.00
+561,Dodge,Viper,92119.00
+562,Subaru,Legacy,93307.00
+563,Volkswagen,rio,47463.00
+564,Infiniti,I,40830.00
+565,Dodge,Sprinter,98548.00
+566,Nissan,Armada,73386.00
+567,Mazda,MX-6,25071.00
+568,GMC,Yukon XL 1500,24446.00
+569,Buick,Somerset,46866.00
+570,BMW,X5,13701.00
+571,Jaguar,XJ Series,61746.00
+572,Suzuki,Equator,54282.00
+573,Mercedes-Benz,300TE,94758.00
+574,GMC,Sierra,74764.00
+575,Toyota,Land Cruiser,31007.00
+576,Suzuki,Kizashi,89953.00
+577,Porsche,911,40205.00
+578,Isuzu,Trooper,89295.00
+579,Chevrolet,Impala,98768.00
+580,Ford,Tempo,25119.00
+581,Ford,E150,76022.00
+582,Toyota,FJ Cruiser,59522.00
+583,Lotus,Esprit,76101.00
+584,GMC,Sierra 3500,72475.00
+585,Toyota,Solara,29014.00
+586,Cadillac,Escalade ESV,89195.00
+587,Pontiac,Grand Am,48614.00
+588,Isuzu,Space,24211.00
+589,Hyundai,Sonata,62339.00
+590,Dodge,Viper,82117.00
+591,Subaru,Justy,15985.00
+592,Ford,Focus,76037.00
+593,Chevrolet,S10,96419.00
+594,Ford,Mustang,70500.00
+595,Lexus,IS F,83661.00
+596,Mercedes-Benz,SLR McLaren,17292.00
+597,Infiniti,EX,33350.00
+598,Land Rover,Range Rover,65356.00
+599,GMC,Sierra,39191.00
+600,Pontiac,G6,66981.00
+601,Mitsubishi,Galant,66571.00
+602,Mercury,Milan,48623.00
+603,Mitsubishi,Galant,97758.00
+604,Toyota,Corolla,21365.00
+605,Acura,NSX,64591.00
+606,Acura,MDX,99340.00
+607,Cadillac,SRX,36619.00
+608,BMW,3 Series,40596.00
+609,Chevrolet,Blazer,15972.00
+610,BMW,X5,44306.00
+611,Mercury,Grand Marquis,92211.00
+612,Jeep,Wrangler,29860.00
+613,BMW,525,38854.00
+614,Toyota,Celica,84787.00
+615,Acura,RL,65979.00
+616,Audi,S6,33290.00
+617,Pontiac,Firebird,49207.00
+618,Spyker,C8 Laviolette,98141.00
+619,GMC,Envoy XL,57329.00
+620,Pontiac,Trans Sport,89719.00
+621,Dodge,Ram 3500,61760.00
+622,Spyker,C8 Spyder Wide Body,23176.00
+623,Mitsubishi,Mighty Max,71733.00
+624,Lexus,RX Hybrid,64541.00
+625,BMW,M Roadster,12699.00
+626,Chevrolet,Suburban 2500,34535.00
+627,Lexus,LX,17708.00
+628,Saab,9000,66124.00
+629,Chevrolet,Cavalier,23065.00
+630,Mazda,MX-6,60833.00
+631,Porsche,Boxster,73485.00
+632,Mercury,Grand Marquis,85677.00
+633,Mercury,Mountaineer,26458.00
+634,Bentley,Azure,98369.00
+635,Honda,del Sol,57090.00
+636,Audi,S5,58546.00
+637,Audi,TT,86288.00
+638,Ford,Focus,82507.00
+639,BMW,1 Series,75100.00
+640,Mercedes-Benz,CL-Class,67648.00
+641,Dodge,D250 Club,52266.00
+642,Lexus,ES,80119.00
+643,Mercedes-Benz,GLK-Class,71113.00
+644,Chevrolet,Camaro,75168.00
+645,Hummer,H3T,23140.00
+646,Chevrolet,S10,62115.00
+647,Land Rover,LR3,40893.00
+648,Ford,GT,36572.00
+649,Chevrolet,Camaro,78087.00
+650,Kia,Sedona,65508.00
+651,Chevrolet,Venture,16660.00
+652,Chevrolet,2500,70666.00
+653,Lotus,Exige,59262.00
+654,Pontiac,Trans Sport,67227.00
+655,Volkswagen,Golf,29181.00
+656,Mazda,RX-8,46452.00
+657,Pontiac,Vibe,40147.00
+658,Mercury,Villager,20741.00
+659,Hyundai,Sonata,79573.00
+660,Toyota,Sienna,70542.00
+661,Bentley,Brooklands,20232.00
+662,GMC,Sierra 1500,65647.00
+663,Lincoln,Navigator,94328.00
+664,Ford,Windstar,61157.00
+665,Chevrolet,Colorado,76071.00
+666,BMW,X5 M,48361.00
+667,Ford,Aerostar,90949.00
+668,Mazda,Protege,60914.00
+669,Ford,E-Series,86621.00
+670,Land Rover,Freelander,78399.00
+671,Volkswagen,Golf,82366.00
+672,Ford,Econoline E250,28758.00
+673,Ford,LTD Crown Victoria,74748.00
+674,Mitsubishi,Pajero,94101.00
+675,Dodge,Ram 1500,67464.00
+676,Ford,E150,28289.00
+677,Chevrolet,Equinox,64118.00
+678,Volkswagen,Type 2,92790.00
+679,Volvo,C70,80986.00
+680,Porsche,Boxster,64439.00
+681,Subaru,Outback,67701.00
+682,Scion,xB,65123.00
+683,Ferrari,612 Scaglietti,57817.00
+684,Isuzu,VehiCROSS,28031.00
+685,Infiniti,I,37594.00
+686,Subaru,Forester,26479.00
+687,GMC,Yukon,89196.00
+688,Dodge,Ram 1500,28727.00
+689,Ford,Mustang,23112.00
+690,Ford,E350,75674.00
+691,Audi,TT,33499.00
+692,Ford,F350,32829.00
+693,Mitsubishi,Pajero,68002.00
+694,Dodge,Daytona,44812.00
+695,Bentley,Continental GTC,88997.00
+696,Cadillac,Seville,96516.00
+697,Plymouth,Grand Voyager,13873.00
+698,GMC,Sonoma,39575.00
+699,Mercedes-Benz,E-Class,47063.00
+700,Mazda,Mazda6,13014.00
+701,Chevrolet,Classic,45378.00
+702,Mitsubishi,Pajero,77991.00
+703,Lincoln,Navigator L,88589.00
+704,Cadillac,Eldorado,26508.00
+705,Volkswagen,Eurovan,26038.00
+706,Chevrolet,Venture,77036.00
+707,Toyota,Tundra,43605.00
+708,Isuzu,i-Series,75907.00
+709,Chevrolet,Express 1500,38366.00
+710,Oldsmobile,Bravada,96646.00
+711,Volkswagen,Touareg 2,77502.00
+712,Lamborghini,Gallardo,40727.00
+713,Infiniti,M,11896.00
+714,Land Rover,LR2,83833.00
+715,Dodge,Ram 2500,79827.00
+716,GMC,Sierra 1500,18129.00
+717,Nissan,Altima,13822.00
+718,GMC,Sonoma,96402.00
+719,Isuzu,Rodeo,88474.00
+720,Ford,F250,60061.00
+721,Mitsubishi,Montero,78972.00
+722,Cadillac,DeVille,10947.00
+723,Mazda,MX-3,14069.00
+724,Mitsubishi,3000GT,44363.00
+725,Ram,C/V,59582.00
+726,Toyota,Sienna,47114.00
+727,Subaru,Legacy,35722.00
+728,Volkswagen,New Beetle,57490.00
+729,Maybach,57,52134.00
+730,Jeep,Patriot,84429.00
+731,Suzuki,Verona,98299.00
+732,Isuzu,Rodeo,50505.00
+733,Mitsubishi,Mirage,52521.00
+734,Suzuki,XL7,88656.00
+735,Honda,Odyssey,27017.00
+736,Mazda,B-Series Plus,68607.00
+737,Volkswagen,Eos,26128.00
+738,Saab,9-5,28391.00
+739,Mitsubishi,Diamante,71035.00
+740,Lincoln,Continental,39388.00
+741,Lamborghini,Murciélago,16808.00
+742,Mitsubishi,3000GT,33882.00
+743,Honda,Civic,37385.00
+744,Nissan,Murano,64312.00
+745,Toyota,Echo,60627.00
+746,Lexus,RX,30365.00
+747,Mercedes-Benz,SL-Class,76212.00
+748,Jeep,Compass,92058.00
+749,Dodge,Ram,98155.00
+750,Mazda,Mazda3,72296.00
+751,Oldsmobile,Silhouette,21702.00
+752,Buick,Regal,57695.00
+753,Chrysler,Sebring,92835.00
+754,Buick,Skylark,73434.00
+755,Ford,Mustang,15769.00
+756,Volkswagen,GTI,24420.00
+757,Chevrolet,1500,78805.00
+758,Oldsmobile,Bravada,60255.00
+759,Lotus,Esprit,23733.00
+760,Saab,9000,51499.00
+761,Toyota,Sienna,97355.00
+762,Ford,F250,30510.00
+763,Ford,Crown Victoria,68273.00
+764,Suzuki,Equator,16517.00
+765,GMC,Terrain,85912.00
+766,BMW,7 Series,50475.00
+767,Honda,CR-V,41162.00
+768,Chevrolet,Suburban 2500,78124.00
+769,Lexus,LS,72440.00
+770,Ram,Dakota,49567.00
+771,Lincoln,Continental,35234.00
+772,Kia,Sorento,41368.00
+773,Buick,Skyhawk,38080.00
+774,Buick,Regal,94255.00
+775,Hyundai,Sonata,17369.00
+776,Nissan,240SX,61360.00
+777,Saab,9000,32908.00
+778,Chevrolet,Cobalt,55187.00
+779,Ford,Th!nk,86685.00
+780,Ford,Econoline E350,30665.00
+781,BMW,Z4,85722.00
+782,Audi,A6,51757.00
+783,Toyota,Tacoma Xtra,80797.00
+784,Mitsubishi,Mirage,56884.00
+785,Chevrolet,Camaro,77120.00
+786,Porsche,911,37089.00
+787,Lincoln,Continental Mark VII,24163.00
+788,Pontiac,Montana SV6,61562.00
+789,Pontiac,Grand Prix,72983.00
+790,Volkswagen,Golf,61204.00
+791,GMC,3500,26431.00
+792,MINI,Countryman,47287.00
+793,Ferrari,430 Scuderia,76903.00
+794,Chevrolet,Cavalier,88319.00
+795,Jeep,Wrangler,16421.00
+796,Cadillac,Catera,19437.00
+797,Subaru,Loyale,82692.00
+798,Honda,CR-Z,96241.00
+799,Chevrolet,3500,64021.00
+800,Porsche,911,59815.00
+801,Suzuki,XL-7,80070.00
+802,GMC,1500,57771.00
+803,Mercedes-Benz,600SEC,21417.00
+804,Maybach,57,91438.00
+805,Dodge,Ram Van 3500,39023.00
+806,Ford,F-Series,38922.00
+807,Ford,Econoline E350,23180.00
+808,Bentley,Continental GT,41038.00
+809,Porsche,911,76880.00
+810,Austin,Mini,84625.00
+811,Land Rover,Range Rover Sport,89594.00
+812,Ford,Taurus,11401.00
+813,Jaguar,X-Type,63008.00
+814,Mitsubishi,Expo,66771.00
+815,Volkswagen,rio,83178.00
+816,Plymouth,Neon,46318.00
+817,BMW,Alpina B7,94353.00
+818,Pontiac,Bonneville,77488.00
+819,Subaru,Impreza,28785.00
+820,Toyota,Highlander,69554.00
+821,Mercedes-Benz,GL-Class,88161.00
+822,Cadillac,Fleetwood,27548.00
+823,Land Rover,Range Rover Evoque,51619.00
+824,Maserati,228,37225.00
+825,Volkswagen,Tiguan,25529.00
+826,Subaru,Legacy,95045.00
+827,Ford,F-Series Super Duty,63213.00
+828,Pontiac,Grand Am,11179.00
+829,Mercedes-Benz,300SL,81907.00
+830,Ferrari,F430,98533.00
+831,Kia,Rio,61467.00
+832,Subaru,Legacy,27829.00
+833,Toyota,Avalon,69216.00
+834,Ford,EXP,71644.00
+835,Chevrolet,Sportvan G30,75230.00
+836,Nissan,Sentra,47634.00
+837,Chevrolet,Uplander,78641.00
+838,Mercedes-Benz,M-Class,98104.00
+839,Infiniti,G,78666.00
+840,GMC,Acadia,99435.00
+841,Nissan,Sentra,68047.00
+842,Ford,Aerostar,14206.00
+843,Mitsubishi,Challenger,72194.00
+844,Mazda,Mazda6,93198.00
+845,Ford,E-Series,73021.00
+846,Ford,Bronco,41294.00
+847,Honda,Accord Crosstour,82631.00
+848,Dodge,Intrepid,16935.00
+849,Volkswagen,Jetta,48126.00
+850,Volvo,240,37149.00
+851,Audi,Cabriolet,52415.00
+852,Geo,Tracker,35882.00
+853,Pontiac,Sunfire,71357.00
+854,Mazda,Protege5,73387.00
+855,Porsche,928,37424.00
+856,Aston Martin,V8 Vantage,13956.00
+857,Chevrolet,Cavalier,89280.00
+858,Buick,Verano,65892.00
+859,Chevrolet,TrailBlazer,97699.00
+860,Lotus,Esprit,29954.00
+861,Honda,S2000,11439.00
+862,Volvo,V90,85445.00
+863,Jaguar,XJ,63622.00
+864,Saab,900,33992.00
+865,Chevrolet,Caprice,70549.00
+866,Volkswagen,GTI,52198.00
+867,Toyota,TundraMax,39173.00
+868,Suzuki,SJ,30010.00
+869,GMC,Suburban 2500,80128.00
+870,Mercedes-Benz,CL-Class,83365.00
+871,Toyota,Highlander,25402.00
+872,Mercedes-Benz,300SD,94235.00
+873,Lincoln,Aviator,16596.00
+874,Volvo,XC70,26653.00
+875,Lamborghini,Reventón,11965.00
+876,Pontiac,Sunfire,77458.00
+877,Subaru,Forester,49444.00
+878,Chrysler,300,28379.00
+879,Hyundai,Tucson,48652.00
+880,Subaru,Legacy,63402.00
+881,Honda,Civic,18128.00
+882,GMC,Savana 2500,52727.00
+883,Dodge,Ram 1500,92566.00
+884,Pontiac,Grand Am,38599.00
+885,Jeep,Patriot,81808.00
+886,Audi,TT,45504.00
+887,Ford,Thunderbird,83929.00
+888,Porsche,928,61746.00
+889,Cadillac,DeVille,25297.00
+890,GMC,Savana 2500,91203.00
+891,Mercury,Cougar,26355.00
+892,Nissan,Armada,71615.00
+893,GMC,Suburban 2500,10663.00
+894,Isuzu,i-370,21887.00
+895,Ford,Explorer,57983.00
+896,Mazda,CX-7,59009.00
+897,Ford,Explorer,30912.00
+898,Chevrolet,Colorado,63211.00
+899,Pontiac,Grand Prix,29644.00
+900,Aston Martin,DBS,22281.00
+901,Dodge,Daytona,11147.00
+902,Mitsubishi,Lancer,97983.00
+903,Eagle,Talon,91534.00
+904,Lexus,SC,88883.00
+905,Lincoln,Mark VIII,81633.00
+906,Chevrolet,Metro,42369.00
+907,Plymouth,Sundance,38714.00
+908,Mercury,Sable,24192.00
+909,Honda,Civic,22543.00
+910,Kia,Rio,22554.00
+911,Maybach,57,42561.00
+912,MINI,Cooper Countryman,64500.00
+913,Chrysler,Town & Country,65929.00
+914,Ford,Edge,54021.00
+915,GMC,3500 Club Coupe,31257.00
+916,Infiniti,G,78271.00
+917,Audi,100,89650.00
+918,Mitsubishi,Outlander Sport,44254.00
+919,Honda,Prelude,95750.00
+920,Lincoln,Mark VII,49237.00
+921,Hyundai,Elantra,41185.00
+922,Mazda,Miata MX-5,91203.00
+923,Saab,9-4X,61243.00
+924,Nissan,Titan,27729.00
+925,Cadillac,XLR,76381.00
+926,Honda,Civic,48184.00
+927,Toyota,Corolla,44835.00
+928,Isuzu,Trooper,67363.00
+929,Saturn,VUE,59866.00
+930,Oldsmobile,98,59984.00
+931,Ford,Focus,49301.00
+932,Cadillac,Escalade EXT,64515.00
+933,GMC,Sierra 1500,83529.00
+934,Mercedes-Benz,W201,56120.00
+935,Cadillac,DeVille,18335.00
+936,Buick,Park Avenue,93611.00
+937,Dodge,Neon,40196.00
+938,Toyota,T100,56139.00
+939,Ford,Explorer Sport Trac,15182.00
+940,Volvo,S40,60192.00
+941,Shelby,GT500,54846.00
+942,Toyota,Land Cruiser,21248.00
+943,Ford,Ranger,78850.00
+944,Dodge,Charger,75981.00
+945,Cadillac,DeVille,40356.00
+946,Spyker,C8 Double 12 S,87899.00
+947,Lincoln,Town Car,59897.00
+948,Mazda,Mazda3,89212.00
+949,Toyota,Celica,73525.00
+950,BMW,X6,37253.00
+951,Maserati,Quattroporte,26183.00
+952,Volvo,S60,18557.00
+953,Lexus,GS,16452.00
+954,Ferrari,430 Scuderia,65128.00
+955,Acura,Integra,39494.00
+956,Subaru,Forester,39728.00
+957,Mitsubishi,Galant,42768.00
+958,Ford,E-Series,64838.00
+959,Suzuki,Grand Vitara,13254.00
+960,Honda,Insight,20835.00
+961,Honda,Civic,21445.00
+962,Dodge,Ram 3500,30194.00
+963,Mercedes-Benz,SLS-Class,53669.00
+964,Lexus,LS,68669.00
+965,Dodge,Dynasty,10933.00
+966,Tesla,Roadster,47224.00
+967,Dodge,Nitro,56103.00
+968,BMW,5 Series,87053.00
+969,Ford,E150,73034.00
+970,Chevrolet,Camaro,93519.00
+971,Honda,Passport,84555.00
+972,Subaru,Impreza,45985.00
+973,Ford,Bronco II,11107.00
+974,Lotus,Elise,65370.00
+975,Toyota,FJ Cruiser,76739.00
+976,Acura,RDX,15547.00
+977,Mitsubishi,Eclipse,14198.00
+978,Lotus,Exige,21176.00
+979,Mercedes-Benz,R-Class,47042.00
+980,Nissan,Quest,91846.00
+981,Spyker,C8,46684.00
+982,Mercury,Mountaineer,83963.00
+983,Eagle,Summit,55289.00
+984,Jeep,Liberty,43902.00
+985,Toyota,Avalon,45887.00
+986,Plymouth,Voyager,55652.00
+987,GMC,Savana 1500,80195.00
+988,Toyota,Tercel,36058.00
+989,Chevrolet,TrailBlazer,94196.00
+990,Mercedes-Benz,E-Class,97878.00
+991,MINI,Cooper,21396.00
+992,Ford,Aerostar,65455.00
+993,Audi,S8,61386.00
+994,Acura,Legend,83650.00
+995,Pontiac,Firebird,36139.00
+996,GMC,Savana 2500,97669.00
+997,Pontiac,Vibe,37213.00
+998,Cadillac,Escalade ESV,73435.00
+999,Subaru,Legacy,21434.00
+1000,Volvo,V70,37940.00
